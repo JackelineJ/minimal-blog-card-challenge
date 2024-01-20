@@ -27,7 +27,7 @@ body {
     box-shadow: 5px 10px 20px 0px rgba(11, 14, 26, 0.05);
 }
 
-.image, .category, .content, .author{
+.image, .category, .content{
     margin: 1em;
 }
 
@@ -79,6 +79,7 @@ body {
 .name {
     font-size: 0.75rem;
     font-weight: 400;
+    margin: 0 0 1em 1.5em;
 }
 
 .author{
